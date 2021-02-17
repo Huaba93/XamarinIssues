@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6996FDA1-666C-4878-9EB6-3C2E3DB46E7B}|Default">
+  <MonoDevelop.Ide.ItemProperties.MediaElementCrashIOS.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2F117462-EB7E-47EB-96BD-F4E113278A7C" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MediaElementCrashIOS" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MediaElementCrashIOS FirstBuild="True" />
+</Properties>

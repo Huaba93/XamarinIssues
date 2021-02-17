@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "79Bd/yELzkrExX/01Fc8yF5/NVrs1vlE95/L0O2OeSRiDWcQcuUiUn4TIQeKm2U8zUjmW852UlaXkboxrftadA==",
+  "success": true,
+  "projectFilePath": "/Users/christophhuber/git/XamarinIssues/MediaElementCrashIOS/MediaElementCrashIOS/MediaElementCrashIOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/christophhuber/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/christophhuber/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/christophhuber/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
