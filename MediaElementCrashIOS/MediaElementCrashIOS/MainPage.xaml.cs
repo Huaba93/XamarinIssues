@@ -14,5 +14,10 @@ namespace MediaElementCrashIOS
         {
             InitializeComponent();
         }
+
+        private async void Button_OnClicked(object sender, EventArgs e)
+        {
+            Application.Current.MainPage = new MainPage();
+        }
     }
 }

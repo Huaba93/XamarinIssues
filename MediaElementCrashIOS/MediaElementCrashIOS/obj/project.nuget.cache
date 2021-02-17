@@ -1,14 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "79Bd/yELzkrExX/01Fc8yF5/NVrs1vlE95/L0O2OeSRiDWcQcuUiUn4TIQeKm2U8zUjmW852UlaXkboxrftadA==",
+  "dgSpecHash": "66z/tk/TkUI8VBKVDRC62CEJWUiE3hy03Fhlx5wW3tkmz3X7z8j+wx3b+vdT7FOn7SM6AfT7o+f7Hr4/L7b6UA==",
   "success": true,
   "projectFilePath": "/Users/christophhuber/git/XamarinIssues/MediaElementCrashIOS/MediaElementCrashIOS/MediaElementCrashIOS.csproj",
   "expectedPackageFiles": [
     "/Users/christophhuber/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/christophhuber/.nuget/packages/system.reflection.emit.ilgeneration/4.7.0/system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "/Users/christophhuber/.nuget/packages/system.reflection.emit.lightweight/4.7.0/system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "/Users/christophhuber/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.3/system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "/Users/christophhuber/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/christophhuber/.nuget/packages/xamarin.communitytoolkit/1.0.2/xamarin.communitytoolkit.1.0.2.nupkg.sha512",
     "/Users/christophhuber/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/christophhuber/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+    "/Users/christophhuber/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
 }

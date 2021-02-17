@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "v8h7zr2EJi2+M8t2A9VDQWd7HM1Nc7kIAQt0/4rSTGDXSh4DIGnWm13q1wfKrd6kSJU1fkTacGYAGI9NQhoXcw==",
+  "dgSpecHash": "fH+IyCwQ442pSaPwADuVhbRI31wE8KbANKr009aEmGF8bGJVPHEtwitkc3JJm7bqdrDABVioUq1optj6wYNHCQ==",
   "success": true,
   "projectFilePath": "/Users/christophhuber/git/XamarinIssues/MediaElementCrashIOS/MediaElementCrashIOS.iOS/MediaElementCrashIOS.iOS.csproj",
   "expectedPackageFiles": [
+    "/Users/christophhuber/.nuget/packages/xamarin.communitytoolkit/1.0.2/xamarin.communitytoolkit.1.0.2.nupkg.sha512",
     "/Users/christophhuber/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/christophhuber/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+    "/Users/christophhuber/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
 }
