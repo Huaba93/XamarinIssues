@@ -10,11 +10,13 @@
     <Frame HorizontalOptions="Fill" Padding="50" BackgroundColor="LightGray"
            effects:TouchEffect.NativeAnimation="True"
            effects:TouchEffect.NativeAnimationShadowRadius="80"
-           effects:TouchEffect.NativeAnimationColor="Red">
+           effects:TouchEffect.NativeAnimationColor="Red"
+           effects:TouchEffect.ShouldMakeChildrenInputTransparent="False">
         <Frame HorizontalOptions="Fill" Padding="24" BackgroundColor="LightGray"
                effects:TouchEffect.NativeAnimation="True"
                effects:TouchEffect.NativeAnimationShadowRadius="80"
-               effects:TouchEffect.NativeAnimationColor="Red" />
+               effects:TouchEffect.NativeAnimationColor="Red" 
+               effects:TouchEffect.ShouldMakeChildrenInputTransparent="False"/>
     </Frame>
 
 </ContentPage>
