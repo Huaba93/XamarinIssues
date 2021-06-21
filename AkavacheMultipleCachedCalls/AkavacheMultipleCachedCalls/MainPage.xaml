@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AkavacheMultipleCachedCalls.MainPage">
+
+    <StackLayout VerticalOptions="Center">
+        <Label x:Name="FetchAndGetLatestSameFetchActionLabel" />
+        <Button Text="FetchAndGetLatestSameFetchAction" Clicked="FetchAndGetLatestSameFetchActionClicked" />
+
+        <Label x:Name="FetchAndGetLatestDifferentFetchActionLabel" />
+        <Button Text="FetchAndGetLatestDifferentFetchAction" Clicked="FetchAndGetLatestDifferentFetchActionClicked" />
+
+    </StackLayout>
+
+</ContentPage>
